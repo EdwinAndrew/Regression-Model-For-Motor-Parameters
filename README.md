@@ -29,3 +29,21 @@ A precise torque estimate leads to more accurate and adequate control of the mot
 ## License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+## Sections 
+- Basic Linear Regression
+- Multiple Linear Regression
+- Principle Component Regression
+- KNN Regression
+- Polynomial Regression
+
+## Sample Data Visualizations
+#### Heat Map
+![Heat Map](https://user-images.githubusercontent.com/48691226/100554519-24791c00-3263-11eb-9187-7b9b2c1ed943.png)
+#### PCR Model Tuning 
+![PCR Model Tuning](https://user-images.githubusercontent.com/48691226/100554527-28a53980-3263-11eb-9913-1715759c8eac.png)
+#### Residual Error for Training and Test Data
+![Residual Error](https://user-images.githubusercontent.com/48691226/100554495-fa275e80-3262-11eb-8f79-15bf4a7f12fa.png)
+
+
+
+
